@@ -2,6 +2,9 @@
 
 This is a Flutter application that showcases a simple user interface with clickable cards that open GitHub and LinkedIn profiles when tapped. The app also features a counter that increases with each button press.
 
+![Print de Tela](Screenshot.png)
+
+
 ## Getting Started
 This project is a starting point for a Flutter application.
 To run this project, you'll need to have Flutter and Dart installed on your machine. If you haven't already, you can follow the official Flutter installation guide here: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
